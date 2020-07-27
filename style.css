@@ -1,0 +1,20 @@
+  body{
+    margin: auto;
+  }
+ 
+	a{color:white;}
+	a:hover{color:black;}
+	
+.last{
+  color: green;
+}
+.least{
+  color: green;
+  text-decoration: none;
+}
+h5{
+  color: green;
+}
+.slides{
+  color: white;
+}
